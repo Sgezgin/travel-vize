@@ -121,9 +121,10 @@ export default function About() {
                 gelişen teknolojimizle, vize başvuru sürecini kolaylaştırmanın öncüsü olduk.
               </p>
               <p>
-                Bugüne kadar 15.000'den fazla mutlu müşterimize hizmet verdik ve %98 başarı 
+                Bugüne kadar 15.000&rsquoden fazla mutlu müşterimize hizmet verdik ve %98 başarı 
                 oranımızla sektörde öncü konuma geldik. Amacımız, herkesin hayalindeki 
                 seyahate çıkabilmesi için vize engellerini kaldırmaktır.
+                {"It's a great day"}
               </p>
               <p>
                 Uzman ekibimiz, sürekli eğitim ve gelişim programlarıyla kendini yeniliyor 

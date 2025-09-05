@@ -18,7 +18,7 @@ export default function Hero() {
           {/* Left Content */}
           <div className="text-center lg:text-left">
             <div className="inline-flex items-center px-4 py-2 bg-blue-100 text-blue-800 rounded-full text-sm font-medium mb-6">
-              ⭐ Türkiye'nin En Güvenilir Vize Danışmanlığı
+              ⭐ Türkiye&rsquo;nin En Güvenilir Vize Danışmanlığı
             </div>
             
             <h1 className="text-4xl lg:text-6xl font-bold text-gray-900 mb-6">

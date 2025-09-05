@@ -59,7 +59,7 @@ export default function Footer() {
               />
             </div>
             <p className="text-gray-300 mb-6 leading-relaxed">
-              Türkiye'nin en güvenilir vize danışmanlığı. 2015'ten beri 15.000+ mutlu müşteri ile 
+              Türkiye&rsquo;nin en güvenilir vize danışmanlığı. 2015&rsquo;ten beri 15.000+ mutlu müşteri ile 
               %98 başarı oranında vize hizmetleri sunuyoruz.
             </p>
             
